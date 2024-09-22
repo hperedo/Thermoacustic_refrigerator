@@ -13,7 +13,8 @@ Este repositorio implementa un pipeline de **Integración Continua (CI)** y **De
 
 Organiza tu proyecto de la siguiente manera:
 
-/src # Código fuente /tests 
+/src # Código fuente 
+/tests # Pruebas Unitarias
 
 ```matlab
 % Definición de parámetros
